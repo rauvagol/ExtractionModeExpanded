@@ -1,0 +1,7 @@
+name=Extraction Mode Expanded
+id=ExtractionModeExpanded
+description=Paid area refresh and collections for Extraction Mode.
+modversion=0.1.0
+versionMin=42.20
+author=Extraction Mode Expanded
+require=ExtractionMode

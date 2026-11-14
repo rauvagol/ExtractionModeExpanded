@@ -1,0 +1,9 @@
+VERSION = 1,
+
+option ExtractionModeExpanded.costScale { type = double, min = 0.1, max = 5.0, default = 1.0, page = ExtractionModeExpanded, translation = ExtractionModeExpanded_costScale, }
+option ExtractionModeExpanded.weaponScale { type = double, min = 0.1, max = 5.0, default = 1.0, page = ExtractionModeExpanded, translation = ExtractionModeExpanded_weaponScale, }
+option ExtractionModeExpanded.penaltyPerRefresh { type = double, min = 0.0, max = 5.0, default = 1.0, page = ExtractionModeExpanded, translation = ExtractionModeExpanded_penaltyPerRefresh, }
+option ExtractionModeExpanded.decayPerOtherRefresh { type = double, min = 0.0, max = 1.0, default = 0.06666666666666667, page = ExtractionModeExpanded, translation = ExtractionModeExpanded_decayPerOtherRefresh, }
+option ExtractionModeExpanded.keyItemStep { type = integer, min = 1, max = 10, default = 3, page = ExtractionModeExpanded, translation = ExtractionModeExpanded_keyItemStep, }
+option ExtractionModeExpanded.resetVehicles { type = boolean, default = true, page = ExtractionModeExpanded, translation = ExtractionModeExpanded_resetVehicles, }
+option ExtractionModeExpanded.resetGasPumps { type = boolean, default = true, page = ExtractionModeExpanded, translation = ExtractionModeExpanded_resetGasPumps, }

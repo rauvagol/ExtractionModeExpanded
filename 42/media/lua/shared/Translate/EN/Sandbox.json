@@ -1,0 +1,17 @@
+{
+    "Sandbox_ExtractionModeExpanded": "Extraction Mode Expanded",
+    "Sandbox_ExtractionModeExpanded_costScale": "Refresh value cost scale",
+    "Sandbox_ExtractionModeExpanded_costScale_tooltip": "Multiplies every area's value-point requirement.",
+    "Sandbox_ExtractionModeExpanded_weaponScale": "Refresh weapon cost scale",
+    "Sandbox_ExtractionModeExpanded_weaponScale_tooltip": "Multiplies every area's weapon-point requirement.",
+    "Sandbox_ExtractionModeExpanded_penaltyPerRefresh": "Repeat penalty per refresh",
+    "Sandbox_ExtractionModeExpanded_penaltyPerRefresh_tooltip": "Added to the refreshed area's excess. Default 1.0.",
+    "Sandbox_ExtractionModeExpanded_decayPerOtherRefresh": "Excess decay per other refresh",
+    "Sandbox_ExtractionModeExpanded_decayPerOtherRefresh_tooltip": "Subtracted from every other area when one is refreshed. Default 1/15.",
+    "Sandbox_ExtractionModeExpanded_keyItemStep": "Key item multiplier step",
+    "Sandbox_ExtractionModeExpanded_keyItemStep_tooltip": "Refreshes before a key item steps up. Default 3.",
+    "Sandbox_ExtractionModeExpanded_resetVehicles": "Reset vehicles on refresh",
+    "Sandbox_ExtractionModeExpanded_resetVehicles_tooltip": "Permanently remove vehicles in the refreshed area and respawn from vehicle zones.",
+    "Sandbox_ExtractionModeExpanded_resetGasPumps": "Reset gas pumps on refresh",
+    "Sandbox_ExtractionModeExpanded_resetGasPumps_tooltip": "Clear pump fuel so the next use re-rolls from sandbox gas settings."
+}

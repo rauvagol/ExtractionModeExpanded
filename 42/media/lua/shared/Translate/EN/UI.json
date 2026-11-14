@@ -1,0 +1,7 @@
+{
+    "UI_ExtractionModeExpanded_OptionsTitle": "Extraction Mode Expanded",
+    "UI_ExtractionModeExpanded_HideFavoriteItemDetails": "Hide item details on favorited items",
+    "UI_ExtractionModeExpanded_HideFavoriteItemDetailsTooltip": "Favorited items skip the value, collection, upgrade, quest, and refresh lines. Other copies still show them.",
+    "UI_ExtractionModeExpanded_WarnEndBankUndo": "Warn before ending undoable banking",
+    "UI_ExtractionModeExpanded_WarnEndBankUndoTooltip": "Asks before you leave a banking session that still has undos. Leaving the hideout locks those deposits in. After a raid, they cannot be undone."
+}
